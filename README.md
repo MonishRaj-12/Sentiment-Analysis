@@ -11,5 +11,5 @@ A simple yet powerful sentiment analysis system using Natural Language Processin
 - **Visualization**: Performance metrics and confusion matrices
 - **Two Analysis Methods**: Custom-trained model and TextBlob for comparison
 
-## 📁 Project Structure
+
 
